@@ -15,6 +15,3 @@ A simple high-performance backend built with FastAPI. I created structured data 
 All required packages are unified in one dependency file. Open your terminal and run the command below to finish installation:
 ```bash
 pip install -r requirements.txt
-
-Personal Takeaways
-Working on this multi-module project let me practice modular programming, cross-platform environment configuration and data visualization. I also learned how to design clean API layers and separate algorithm logic from data processing code.
